@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    background-color: grey;
+    margin: 0;
+}
+body{
+    flex-direction: column;
+    
+}
+
+imeeeeg{
+    display: block;
+    width: 25px;
+    height: 25px;
+}
+
+h1{
+    color: red;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+audio{
+    padding-bottom: 400px;
+}
+.musica_minato{
+    
+    padding-left: 500px;
+    padding-bottom: 1000px;
+    align-items: center;
+}
