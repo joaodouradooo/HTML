@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 120px;
+    background-color: red;
+}
+
+nav{
+    height: 160px;
+    background-color: aqua;
+}
+main{
+    background-color: blueviolet;
+    height: 600px;
+    padding: 60;
+}
+
+
+#pai1{
+
+    background-color: blue;
+    height: 560px;
+    width: 40%;
+    float: right;
+    padding: 20px;
+}
+
+
+
+#pai2{
+    background-color: purple;
+    height: 560px;
+    width: 40%;
+    float: left;
+    padding: 20px;
+}
+
+p{
+    background-color: pink;
+    border-radius: 5px;
+    width: 30px;
+    width: 20%;
+    margin: 30px;
+}
+
+
+footer{
+    background-color: green;
+    height: 100px;
+}
+
