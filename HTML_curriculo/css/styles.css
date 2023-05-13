@@ -1,0 +1,25 @@
+
+p{
+    float: right;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    color: black;
+}
+img{
+    float: 30px;
+    border-radius: 20px;
+    border: solid black 1px;
+    margin-left: 100px;
+}
+h1{
+    float: right;
+    margin-right: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background-color: #fcfafa;
+}
+li{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
